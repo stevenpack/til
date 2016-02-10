@@ -1,9 +1,9 @@
 # til
-Today I learned
+> Today I learned
 
 ##Categories
 
-* [OSX](#OSX)
+* [OSX](#osx)
 * [Rust](#Rust)
 * [Rust](#Rust)
 * [Rust](#Rust)
@@ -55,6 +55,8 @@ Today I learned
 * [Rust](#Rust)
 * [Rust](#Rust)
 
-### OSX
+---
+
+### osx
 
 [Get CPU Details from the comand line](/osx/cpu-details-from-command-line.md)
