@@ -55,6 +55,6 @@ Today I learned
 * [Rust](#Rust)
 * [Rust](#Rust)
 
-###OSX
+### OSX
 
 [Get CPU Details from the comand line](/osx/cpu-details-from-command-line.md)
