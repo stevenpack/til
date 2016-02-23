@@ -6,8 +6,13 @@
 * [OSX](#osx)
 * [Rust](#rust)
 * [Vim](#vim)
+* [Git](#git)
 
 ---
+
+### Git
+
+[git log --online with author and date](/git/git-log-oneline-with-author-and-date.md)
 
 ### OSX
 
