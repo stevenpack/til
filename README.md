@@ -20,6 +20,8 @@
 
 ### Rust
 
+[Show output in cargo test](/rust/show-output-in-cargo-tests.md)
+
 ### Vim
 
 [Delete multiple lines](/vim/delete-multiple-lines.md)
